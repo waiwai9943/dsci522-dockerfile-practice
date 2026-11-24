@@ -1,0 +1,13 @@
+[project]
+name = "individuals"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Isaac WU", email = "waiwai9943@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "cowsay==6.1",
+    "numpy==2.4.6",
+]
